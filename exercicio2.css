@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+h1{
+    font-family: "Montserrat", sans-serif;
+}
+
+h2{
+    font-family: "Roboto Condensed", sans-serif;
+    color: #0077b6;
+}
+
+.conteudo{
+  background-color: #fff1e6;
+ font-size: 14px;
+ width: 50%;
+ margin: 0 auto;
+}

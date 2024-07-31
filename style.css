@@ -1,0 +1,25 @@
+body {
+    background-color: #FF7F50;
+}
+
+
+h1{
+    background-color: #ff006e;
+}
+.texto{
+   background-color: aqua;
+}
+
+.texto1{
+    border: dotted rgb(159, 155, 31) 10px;
+}
+
+#cabecalho{
+    background-color: aquamarine;
+}
+
+div p {
+    color: rgb(100, 76, 100);
+    background-color: burlywood;
+}
+
